@@ -1,0 +1,160 @@
+Uri: https://agent.leoono.com/
+File Name: C:\Downloaded Web Sites\agent.leoono.com\index-1.htm
+Content Type: text/html
+
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\agent.leoono.com\ajax\libs\webfont\1.6.26\webfont-1.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677e5f840a0cd73c4b2a4798_noise.jpg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677e5f840a0cd73c4b2a4798_noise-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677e60561dce124094e83b98_Merriweather-Bold.ttf
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677e60561dce124094e83b98_Merriweather-Bold-1.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677e62c31dce124094ea594a_Logo.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677e62c31dce124094ea594a_Logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677e63b4fb57016ef18ffbdf_Telegtam-icon.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677e63b4fb57016ef18ffbdf_Telegtam-icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677e65af3e0af5073d57ee8a_logo-icon.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677e65af3e0af5073d57ee8a_logo-icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677e7736e61606eb066d9fef_dot.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677e7736e61606eb066d9fef_dot-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677e7edb5c1a197d90183f77_Bluur-background.jpg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677e7edb5c1a197d90183f77_Bluur-background-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677e812755722fbd98c75a39_Frame 37-3.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677e812755722fbd98c75a39_Frame 37-3-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677e812773335a1acba0fd00_Frame 37.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677e812773335a1acba0fd00_Frame 37-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677e812798b11060b90df37c_Frame 37-2.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677e812798b11060b90df37c_Frame 37-2-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677e8127e537fe8da7f9a811_Frame 37-1.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677e8127e537fe8da7f9a811_Frame 37-1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677e8373322c7ccbd72ce634_shape.png
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677e8373322c7ccbd72ce634_shape-1.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677e84299225d9a840fe8b0f_lion.png
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677e84299225d9a840fe8b0f_lion-1.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677fbdb81e88cc81c73046e1_analyse 1.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677fbdb81e88cc81c73046e1_analyse 1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677fbdb8865f4a799892449e_chart-scatter 1.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677fbdb8865f4a799892449e_chart-scatter 1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677fbdb8b3368bb55a991037_bullseye-pointer 1.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677fbdb8b3368bb55a991037_bullseye-pointer 1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677fbf7970cfa52b6362d4b8_Frame-1.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677fbf7970cfa52b6362d4b8_Frame-1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677fbf79865f4a79989449c4_Frame.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677fbf79865f4a79989449c4_Frame-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677fbf79be018b4f95cd2419_Frame-2.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677fbf79be018b4f95cd2419_Frame-2-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677fbf79ea80976c42c83dc3_telegram-1 1.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677fbf79ea80976c42c83dc3_telegram-1 1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677fc1460fdb623b5b4ea68f_community-p-500.png
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677fc1460fdb623b5b4ea68f_community-p-500-1.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677fc1460fdb623b5b4ea68f_community.png
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677fc1460fdb623b5b4ea68f_community-1.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677fc71f5919825783c9b85c_plus.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677fc71f5919825783c9b85c_plus-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677fc71fc3d936dddc5dc2de_minus.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677fc71fc3d936dddc5dc2de_minus-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677fcd2400269f526be4482f_gecko.png
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677fcd2400269f526be4482f_gecko-1.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677fcd247962fbc72b71ae7c_dex.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677fcd247962fbc72b71ae7c_dex-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677fceae00269f526be628e6_Frame-2.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677fceae00269f526be628e6_Frame-2-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677fceae4c3084ed7598454c_Frame-1.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677fceae4c3084ed7598454c_Frame-1-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677fceaed00d7ac187e6ad47_Frame.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677fceaed00d7ac187e6ad47_Frame-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677fceaef9490909b83c40e2_Frame-3.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677fceaef9490909b83c40e2_Frame-3-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/677fd04f463c2cbeae3af6bd_arrow-up-right.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\677fd04f463c2cbeae3af6bd_arrow-up-right-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/67801ebac8f97428906d1838_menu.svg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\67801ebac8f97428906d1838_menu-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/67855263f475d2cf2cb7bc57_Radial Glass%402-1000x1000.jpg
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\67855263f475d2cf2cb7bc57_Radial Glass@2-1000x1000-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/6787c2a760c5b2776cb82259_favicon-32x32.png
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\6787c2a760c5b2776cb82259_favicon-32x32-1.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/css/leoono-ai.b01bebd6c.css
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\css\leoono-ai.b01bebd6c-1.css
+Content Type: text/css
+
+Uri: https://cdn.prod.website-files.com/677e5d6393283089925c8d58/js/leoono-ai.697a9a448c146ee44a325833af70e59d.js
+File Name: C:\Downloaded Web Sites\agent.leoono.com\677e5d6393283089925c8d58\js\leoono-ai.697a9a448c146ee44a325833af70e59d-1.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/img/webclip.png
+File Name: C:\Downloaded Web Sites\agent.leoono.com\img\webclip-1.png
+Content Type: image/png
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=677e5d6393283089925c8d58
+File Name: C:\Downloaded Web Sites\agent.leoono.com\js\jquery-3.5.1.min.dc5e7f18c8-1.js
+Content Type: application/javascript
+
